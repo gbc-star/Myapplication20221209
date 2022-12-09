@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Myapplication20221209</string>
+    <string name="text1">点击按钮生成一个0-9的随机数</string>
+    <string name="text2">点我</string>
 </resources>
